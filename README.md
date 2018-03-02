@@ -65,6 +65,9 @@ Client
 Use GUI clients on your local PC/phones. Check the README of your client
 for more information.
 
+gfwlist
+https://raw.githubusercontent.com/gfwlist/gfwlist/master/gfwlist.txt
+
 Documentation
 -------------
 
